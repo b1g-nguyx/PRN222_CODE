@@ -12,3 +12,4 @@ D:\kì 7\PRN222\code\Lap1\ServerApp\ServerApp\obj\Debug\net8.0\refint\ServerApp.
 D:\kì 7\PRN222\code\Lap1\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.pdb
 D:\kì 7\PRN222\code\Lap1\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
 D:\kì 7\PRN222\code\Lap1\ServerApp\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
+D:\kì 7\PRN222\code\Lap1\ServerApp\ServerApp\obj\Debug\net8.0\ServerApp.sourcelink.json
